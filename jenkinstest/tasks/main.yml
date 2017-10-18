@@ -13,4 +13,3 @@
 - file:
     path: /root/shiva
     state: directory
-    mode: 0755
