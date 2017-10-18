@@ -7,3 +7,10 @@
     path: /root/khaja
     state: directory
     mode: 0755
+	
+# create directory on target folder
+
+- file:
+    path: /root/shiva
+    state: directory
+    mode: 0755
