@@ -3,13 +3,13 @@
 
 # create directory on target folder
 
-- file:
+--- 
+- 
+  file: 
+    mode: 493
     path: /root/khaja
     state: directory
-    mode: 0755
-	
-# create directory on target folder
-
-- file:
+- 
+  file: 
     path: /root/shiva
     state: directory
