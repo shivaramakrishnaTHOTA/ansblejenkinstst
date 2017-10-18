@@ -1,0 +1,9 @@
+---
+# tasks file for jenkinstest
+
+# create directory on target folder
+
+- file:
+    path: /root/khaja
+    state: directory
+    mode: 0755
