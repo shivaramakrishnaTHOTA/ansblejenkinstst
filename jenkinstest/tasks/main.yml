@@ -3,7 +3,6 @@
 
 # create directory on target folder
 
---- 
 - 
   file: 
     mode: 493
